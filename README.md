@@ -1,2 +1,2 @@
-# this is a box project 
+# This is a box project 
 including divs
